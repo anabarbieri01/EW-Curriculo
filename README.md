@@ -1,4 +1,23 @@
 # EWCurriculo
+## Descrição
+Projeto 01 - CV
+Vence 26 de fevereiro de 2025 às 23:59
+
+Instruções:
+Criar uma aplicação Angular com a opção --no-standalone.
+Criar o componente CV, referente ao seu currículo.
+Definir os conteúdos básicos para o seu currículo e estilizar o mesmo.
+
+Salvar o projeto no GitHub.
+Enviar o link do repositório.
+
+
+
+
+
+
+
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
 
