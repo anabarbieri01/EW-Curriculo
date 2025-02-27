@@ -29,10 +29,12 @@
     border: 1px solid #842624;
     padding: 10px;
     text-align: justify;
+
 }
 .flex-skills , .flex-eduexp{
     display: flex;
     flex-direction: row;
+    flex-wrap:wrap;
     gap: 10px;
     justify-content: center;
     padding: 10px;
@@ -46,4 +48,5 @@
     display: flex;
     padding: 10px; 
     flex-direction: column;
+
 }
