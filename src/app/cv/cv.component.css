@@ -1,0 +1,49 @@
+.cv{
+    background-color: rgb(222, 157, 209);
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.sobremim {
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border: 1px solid #c09359;
+    text-align: justify;
+    padding: 10px;
+}
+.contatos{
+    background-color: rgb(169, 242, 153);
+    border-radius: 15px;
+    border: 1px solid #3f8a3b;
+    padding: 10px;
+    text-align: justify;
+}
+.skills , .edu-exp{
+    background-color: rgb(195, 124, 104);
+    border-radius: 15px;
+    border: 1px solid #842624;
+    padding: 10px;
+    text-align: justify;
+}
+.flex-skills , .flex-eduexp{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    
+
+}
+.soft , .hard , .idiomas , .educacao , .experiencia {
+    background-color: rgb(138, 127, 166);
+    border-radius: 15px;
+    border: 1px solid #442859;
+    display: flex;
+    padding: 10px; 
+    flex-direction: column;
+}
